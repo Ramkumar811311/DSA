@@ -16,18 +16,21 @@
 | [0207-course-schedule](https://github.com/Ramkumar811311/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramkumar811311/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Ramkumar811311/DSA/tree/master/0802-find-eventual-safe-states) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ramkumar811311/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramkumar811311/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Ramkumar811311/DSA/tree/master/0802-find-eventual-safe-states) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ramkumar811311/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramkumar811311/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Ramkumar811311/DSA/tree/master/0802-find-eventual-safe-states) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
 | ------- |
@@ -54,4 +57,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramkumar811311/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
