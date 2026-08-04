@@ -10,6 +10,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ramkumar811311/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/Ramkumar811311/DSA/tree/master/1288-remove-covered-intervals) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
+| [3731-find-missing-elements](https://github.com/Ramkumar811311/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0127-word-ladder](https://github.com/Ramkumar811311/DSA/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ramkumar811311/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [3731-find-missing-elements](https://github.com/Ramkumar811311/DSA/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | ------- |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/Ramkumar811311/DSA/tree/master/1288-remove-covered-intervals) |
+| [3731-find-missing-elements](https://github.com/Ramkumar811311/DSA/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
