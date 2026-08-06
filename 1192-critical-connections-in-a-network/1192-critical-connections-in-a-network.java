@@ -19,7 +19,7 @@ class Solution {
                     bridges.add(Arrays.asList(it, node));
                 }
             } else {
-                low[node] = Math.min(low[node], low[it]);
+                low[node] = Math.min(low[node], dt[it]);
             }
         }
     }
