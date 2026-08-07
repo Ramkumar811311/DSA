@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ramkumar811311/DSA/tree/master/0002-add-two-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ramkumar811311/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -149,4 +150,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Ramkumar811311/DSA/tree/master/1192-critical-connections-in-a-network) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ramkumar811311/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
