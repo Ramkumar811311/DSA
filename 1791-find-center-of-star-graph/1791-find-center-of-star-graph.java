@@ -1,23 +1,12 @@
 class Solution {
     public int findCenter(int[][] edges) {
-        int V = edges.length;
+        int a = edges[0][0];
+        int b = edges[0][1];
 
-        int degree[] = new int[V + 2];
-
-        for (int edge[] : edges) {
-            int u = edge[0];
-            int v = edge[1];
-
-            degree[u]++;
-            degree[v]++;
+        if (a == edges[1][0] || a == edges[1][1]) {
+            return a;
         }
 
-        for (int i = 1; i <= V + 1; i++) {
-            if (degree[i] == V) {
-                return i;
-            }
-        }
-
-        return -1;
+        return b;
     }
 }
