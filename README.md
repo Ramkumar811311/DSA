@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ramkumar811311/DSA/tree/master/0001-two-sum) |
+| [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Ramkumar811311/DSA/tree/master/0827-making-a-large-island) |
 | [0997-find-the-town-judge](https://github.com/Ramkumar811311/DSA/tree/master/0997-find-the-town-judge) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Ramkumar811311/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramkumar811311/DSA/tree/master/0210-course-schedule-ii) |
+| [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Ramkumar811311/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ramkumar811311/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -48,6 +50,7 @@
 | [0127-word-ladder](https://github.com/Ramkumar811311/DSA/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Ramkumar811311/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramkumar811311/DSA/tree/master/0210-course-schedule-ii) |
+| [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Ramkumar811311/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ramkumar811311/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -111,6 +114,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Ramkumar811311/DSA/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ramkumar811311/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -140,6 +144,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Ramkumar811311/DSA/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ramkumar811311/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
