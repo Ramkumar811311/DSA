@@ -76,6 +76,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramkumar811311/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ramkumar811311/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2924-find-champion-ii](https://github.com/Ramkumar811311/DSA/tree/master/2924-find-champion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Ramkumar811311/DSA/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
