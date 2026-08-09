@@ -12,6 +12,7 @@
 | [1288-remove-covered-intervals](https://github.com/Ramkumar811311/DSA/tree/master/1288-remove-covered-intervals) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2923-find-champion-i](https://github.com/Ramkumar811311/DSA/tree/master/2923-find-champion-i) |
 | [3731-find-missing-elements](https://github.com/Ramkumar811311/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -141,6 +142,7 @@
 | [0827-making-a-large-island](https://github.com/Ramkumar811311/DSA/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ramkumar811311/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2923-find-champion-i](https://github.com/Ramkumar811311/DSA/tree/master/2923-find-champion-i) |
 ## Binary Search
 |  |
 | ------- |
