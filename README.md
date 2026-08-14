@@ -217,5 +217,6 @@
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ramkumar811311/DSA/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/Ramkumar811311/DSA/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
