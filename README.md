@@ -26,6 +26,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2923-find-champion-i](https://github.com/Ramkumar811311/DSA/tree/master/2923-find-champion-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ramkumar811311/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Ramkumar811311/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramkumar811311/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ramkumar811311/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Ramkumar811311/DSA/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
