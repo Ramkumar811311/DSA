@@ -37,7 +37,7 @@ class Solution {
             int row = p.r;
             int col = p.c;
             int currHealth = p.h;
-            if (row == m - 1 && col == n - 1 && currHealth >= 1) {
+            if (row == m - 1 && col == n - 1) {
                 return true;
             }
             for (int i = 0; i < 4; i++) {
