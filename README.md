@@ -58,6 +58,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ramkumar811311/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ramkumar811311/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Ramkumar811311/DSA/tree/master/0827-making-a-large-island) |
+| [0886-possible-bipartition](https://github.com/Ramkumar811311/DSA/tree/master/0886-possible-bipartition) |
 | [0934-shortest-bridge](https://github.com/Ramkumar811311/DSA/tree/master/0934-shortest-bridge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ramkumar811311/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1034-coloring-a-border](https://github.com/Ramkumar811311/DSA/tree/master/1034-coloring-a-border) |
@@ -84,6 +85,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ramkumar811311/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ramkumar811311/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Ramkumar811311/DSA/tree/master/0827-making-a-large-island) |
+| [0886-possible-bipartition](https://github.com/Ramkumar811311/DSA/tree/master/0886-possible-bipartition) |
 | [0909-snakes-and-ladders](https://github.com/Ramkumar811311/DSA/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/Ramkumar811311/DSA/tree/master/0934-shortest-bridge) |
 | [1034-coloring-a-border](https://github.com/Ramkumar811311/DSA/tree/master/1034-coloring-a-border) |
@@ -108,6 +110,7 @@
 | [0743-network-delay-time](https://github.com/Ramkumar811311/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ramkumar811311/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ramkumar811311/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0886-possible-bipartition](https://github.com/Ramkumar811311/DSA/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ramkumar811311/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Ramkumar811311/DSA/tree/master/0997-find-the-town-judge) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Ramkumar811311/DSA/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -162,6 +165,7 @@
 | [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Ramkumar811311/DSA/tree/master/0827-making-a-large-island) |
+| [0886-possible-bipartition](https://github.com/Ramkumar811311/DSA/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ramkumar811311/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1254-number-of-closed-islands](https://github.com/Ramkumar811311/DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ramkumar811311/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -223,6 +227,7 @@
 ## Bipartite Graph
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/Ramkumar811311/DSA/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ramkumar811311/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Biconnected Component
 |  |
@@ -242,4 +247,8 @@
 | [0127-word-ladder](https://github.com/Ramkumar811311/DSA/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Ramkumar811311/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/Ramkumar811311/DSA/tree/master/0752-open-the-lock) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Ramkumar811311/DSA/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
