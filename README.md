@@ -24,6 +24,7 @@
 | [1905-count-sub-islands](https://github.com/Ramkumar811311/DSA/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ramkumar811311/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2923-find-champion-i](https://github.com/Ramkumar811311/DSA/tree/master/2923-find-champion-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -69,6 +70,7 @@
 | [1905-count-sub-islands](https://github.com/Ramkumar811311/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramkumar811311/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Ramkumar811311/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -100,6 +102,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ramkumar811311/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramkumar811311/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Ramkumar811311/DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -173,6 +176,7 @@
 | [1905-count-sub-islands](https://github.com/Ramkumar811311/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramkumar811311/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -211,6 +215,7 @@
 | [1765-map-of-highest-peak](https://github.com/Ramkumar811311/DSA/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Ramkumar811311/DSA/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ramkumar811311/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2923-find-champion-i](https://github.com/Ramkumar811311/DSA/tree/master/2923-find-champion-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
