@@ -73,6 +73,7 @@
 | [1992-find-all-groups-of-farmland](https://github.com/Ramkumar811311/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/Ramkumar811311/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Ramkumar811311/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -106,6 +107,7 @@
 | [1992-find-all-groups-of-farmland](https://github.com/Ramkumar811311/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/Ramkumar811311/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Ramkumar811311/DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -127,6 +129,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramkumar811311/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ramkumar811311/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Ramkumar811311/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2924-find-champion-ii](https://github.com/Ramkumar811311/DSA/tree/master/2924-find-champion-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Ramkumar811311/DSA/tree/master/3310-remove-methods-from-project) |
@@ -180,6 +183,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramkumar811311/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/Ramkumar811311/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
 |  |
 | ------- |
