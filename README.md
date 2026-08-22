@@ -73,6 +73,7 @@
 | [1905-count-sub-islands](https://github.com/Ramkumar811311/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramkumar811311/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/Ramkumar811311/DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ramkumar811311/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ramkumar811311/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -107,6 +108,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ramkumar811311/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramkumar811311/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/Ramkumar811311/DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ramkumar811311/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ramkumar811311/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -131,6 +133,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/Ramkumar811311/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ramkumar811311/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ramkumar811311/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ramkumar811311/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramkumar811311/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ramkumar811311/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2924-find-champion-ii](https://github.com/Ramkumar811311/DSA/tree/master/2924-find-champion-ii) |
@@ -144,6 +147,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Ramkumar811311/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ramkumar811311/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ramkumar811311/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ramkumar811311/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Linked List
 |  |
 | ------- |
@@ -273,4 +277,5 @@
 |  |
 | ------- |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ramkumar811311/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ramkumar811311/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
