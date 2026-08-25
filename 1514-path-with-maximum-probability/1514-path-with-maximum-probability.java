@@ -14,6 +14,7 @@ class Solution {
             adj.add(new ArrayList<>());
         }
         double probability[] = new double[n];
+        Arrays.fill(probability, 0.0);
         for (int i = 0; i < edges.length; i++) {
 
             int u = edges[i][0];
@@ -23,7 +24,6 @@ class Solution {
 
             adj.get(u).add(new Pair(v, p));
             adj.get(v).add(new Pair(u, p));
-            Arrays.fill(probability, 0.0);
         }
         probability[start] = 1.0;
 
