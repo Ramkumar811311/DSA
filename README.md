@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ramkumar811311/DSA/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Ramkumar811311/DSA/tree/master/0018-4sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ramkumar811311/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Ramkumar811311/DSA/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
@@ -224,6 +225,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ramkumar811311/DSA/tree/master/0018-4sum) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/Ramkumar811311/DSA/tree/master/1288-remove-covered-intervals) |
 | [3731-find-missing-elements](https://github.com/Ramkumar811311/DSA/tree/master/3731-find-missing-elements) |
@@ -324,4 +326,8 @@
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Ramkumar811311/DSA/tree/master/0778-swim-in-rising-water) |
 | [1514-path-with-maximum-probability](https://github.com/Ramkumar811311/DSA/tree/master/1514-path-with-maximum-probability) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Ramkumar811311/DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
