@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ramkumar811311/DSA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Ramkumar811311/DSA/tree/master/0018-4sum) |
+| [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ramkumar811311/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Ramkumar811311/DSA/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Ramkumar811311/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramkumar811311/DSA/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ramkumar811311/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Ramkumar811311/DSA/tree/master/0419-battleships-in-a-board) |
 | [0684-redundant-connection](https://github.com/Ramkumar811311/DSA/tree/master/0684-redundant-connection) |
@@ -95,6 +97,7 @@
 | [0127-word-ladder](https://github.com/Ramkumar811311/DSA/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Ramkumar811311/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramkumar811311/DSA/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ramkumar811311/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Ramkumar811311/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0684-redundant-connection](https://github.com/Ramkumar811311/DSA/tree/master/0684-redundant-connection) |
@@ -134,6 +137,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Ramkumar811311/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramkumar811311/DSA/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Ramkumar811311/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Ramkumar811311/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ramkumar811311/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -188,6 +192,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramkumar811311/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Ramkumar811311/DSA/tree/master/0127-word-ladder) |
+| [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Ramkumar811311/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Ramkumar811311/DSA/tree/master/0752-open-the-lock) |
@@ -205,6 +210,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Ramkumar811311/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
@@ -241,6 +247,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Ramkumar811311/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ramkumar811311/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ramkumar811311/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -330,4 +337,12 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Ramkumar811311/DSA/tree/master/0018-4sum) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
