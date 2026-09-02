@@ -37,6 +37,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ramkumar811311/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ramkumar811311/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ramkumar811311/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ramkumar811311/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -55,6 +56,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramkumar811311/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ramkumar811311/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ramkumar811311/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ramkumar811311/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ramkumar811311/DSA/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -132,6 +134,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/Ramkumar811311/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Ramkumar811311/DSA/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ramkumar811311/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -276,6 +279,7 @@
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2923-find-champion-i](https://github.com/Ramkumar811311/DSA/tree/master/2923-find-champion-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ramkumar811311/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -345,4 +349,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ramkumar811311/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
