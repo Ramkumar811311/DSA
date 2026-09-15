@@ -19,18 +19,14 @@ class Solution {
         int ans = -1;
         q.add(root);
         while (!q.isEmpty()) {
-            int size = q.size();
-            ans = q.peek().val;
-            for (int i = 0; i < size; i++) {
-                TreeNode node = q.poll();
+            TreeNode node = q.poll();
+            ans = node.val;
+            if (node.right != null) {
+                q.add(node.right);
+            }
+            if (node.left != null) {
+                q.add(node.left);
 
-                if (node.left != null) {
-                    q.add(node.left);
-
-                }
-                if (node.right != null) {
-                    q.add(node.right);
-                }
             }
         }
         return ans;
