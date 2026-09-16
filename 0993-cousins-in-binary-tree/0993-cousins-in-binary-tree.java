@@ -14,45 +14,34 @@
  * }
  */
 class Solution {
-    static class Pair {
-        TreeNode node;
-        TreeNode parent;
-
-        Pair(TreeNode node, TreeNode parent) {
-            this.node = node;
-            this.parent = parent;
-        }
-    }
+    static int levelX = -1;
+	static int levelY = -1;
+	
+	static TreeNode parentX = null;
+	static TreeNode parentY = null;
+	public static void find(TreeNode node, int x, int y, int level, TreeNode parent) {
+		if (node == null) {
+			return;
+		}
+		if (node.val == x) {
+			levelX = level;
+			parentX = parent;
+		}
+		if (node.val == y) {
+			levelY = level;
+			parentY = parent;
+		}
+		find(node.left, x, y, level + 1, node);
+		find(node.right, x, y, level + 1, node);
+	}
 
     public boolean isCousins(TreeNode root, int x, int y) {
-        Queue<Pair> q = new LinkedList<>();
-        q.add(new Pair(root, null));
-        while (!q.isEmpty()) {
-            TreeNode parent_x = null;
-            TreeNode parent_y = null;
-            int size = q.size();
-            for (int i = 0; i < size; i++) {
-                Pair p = q.poll();
-                if (p.node.val == x) {
-                    parent_x = p.parent;
-                }
-                if (p.node.val == y) {
-                    parent_y = p.parent;
-                }
-                if (p.node.left != null) {
-                    q.add(new Pair(p.node.left, p.node));
-                }
-                if (p.node.right != null) {
-                    q.add(new Pair(p.node.right, p.node));
-                }
-            }
-            if (parent_x != null && parent_y != null) {
-                return parent_x != parent_y;
-            }
-            if (parent_x != null || parent_y != null) {
-                return false;
-            }
-        }
-        return false;
+        levelX = -1;
+		levelY = -1;
+		parentX = null;
+		parentY = null;
+		
+		find(root, x, y, 0, null);
+		return levelX == levelY && parentX != parentY;
     }
 }
