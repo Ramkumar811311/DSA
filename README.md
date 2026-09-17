@@ -153,6 +153,7 @@
 | [1254-number-of-closed-islands](https://github.com/Ramkumar811311/DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ramkumar811311/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Ramkumar811311/DSA/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Ramkumar811311/DSA/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Ramkumar811311/DSA/tree/master/1905-count-sub-islands) |
@@ -414,6 +415,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Ramkumar811311/DSA/tree/master/1609-even-odd-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ramkumar811311/DSA/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -432,6 +434,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Ramkumar811311/DSA/tree/master/1609-even-odd-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ramkumar811311/DSA/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Backtracking
 |  |
