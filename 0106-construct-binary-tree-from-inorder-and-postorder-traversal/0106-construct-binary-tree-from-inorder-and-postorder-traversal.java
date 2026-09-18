@@ -14,27 +14,33 @@
  * }
  */
 class Solution {
-    public static TreeNode constructBinaryTree(int postorder[],int posStart, int posEnd, int inorder[],int inStart, int inEnd,HashMap<Integer,Integer> map){
-        if (posStart>posEnd || inStart>inEnd) {
+    int p_ind = 0;
+
+    public TreeNode constructBinaryTree(int[] inorder, int[] postorder, int start, int end,
+            HashMap<Integer, Integer> map) {
+        if (start > end) {
             return null;
         }
-        TreeNode root = new TreeNode(postorder[posEnd]);
-        int indexOfRoot = map.get(root.val);
-        int numsLeft = indexOfRoot-inStart;
+        int n = postorder.length;
+        int rootValue = postorder[n - (p_ind) - 1];
+        int rootIndexInInorder = map.get(rootValue);
+        TreeNode root = new TreeNode(rootValue);
 
-        TreeNode Left = constructBinaryTree(postorder, posStart, numsLeft+posStart-1, inorder, inStart, indexOfRoot-1, map);
-        root.left=Left;
-        TreeNode Right = constructBinaryTree(postorder, posStart+numsLeft, posEnd-1, inorder, indexOfRoot+1, inEnd, map);
-        root.right=Right;
+        p_ind++;
+        root.right = constructBinaryTree(inorder, postorder, rootIndexInInorder + 1, end, map);
+        root.left = constructBinaryTree(inorder, postorder, start, rootIndexInInorder - 1, map);
+       
         return root;
+
     }
+
     public TreeNode buildTree(int[] inorder, int[] postorder) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int i=0; i<inorder.length; i++){
+        int n = inorder.length;
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < n; i++) {
             map.put(inorder[i], i);
         }
 
-        TreeNode root=constructBinaryTree(postorder, 0, postorder.length-1, inorder, 0, inorder.length-1, map);
-        return root;
+        return constructBinaryTree(inorder, postorder, 0, inorder.length - 1, map);
     }
 }
