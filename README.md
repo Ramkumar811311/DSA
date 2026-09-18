@@ -54,6 +54,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Ramkumar811311/DSA/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Ramkumar811311/DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Ramkumar811311/DSA/tree/master/0752-open-the-lock) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ramkumar811311/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -86,6 +87,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ramkumar811311/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0684-redundant-connection](https://github.com/Ramkumar811311/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
@@ -422,6 +424,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ramkumar811311/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ramkumar811311/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -444,6 +447,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ramkumar811311/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ramkumar811311/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
