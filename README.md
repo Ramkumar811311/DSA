@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ramkumar811311/DSA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Ramkumar811311/DSA/tree/master/0018-4sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ramkumar811311/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ramkumar811311/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramkumar811311/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Ramkumar811311/DSA/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Ramkumar811311/DSA/tree/master/0433-minimum-genetic-mutation) |
@@ -399,12 +401,14 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ramkumar811311/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ramkumar811311/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -425,6 +429,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ramkumar811311/DSA/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ramkumar811311/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
