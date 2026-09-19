@@ -96,6 +96,7 @@
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Ramkumar811311/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Ramkumar811311/DSA/tree/master/0778-swim-in-rising-water) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ramkumar811311/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ramkumar811311/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ramkumar811311/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Ramkumar811311/DSA/tree/master/0827-making-a-large-island) |
@@ -148,6 +149,7 @@
 | [0743-network-delay-time](https://github.com/Ramkumar811311/DSA/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Ramkumar811311/DSA/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Ramkumar811311/DSA/tree/master/0778-swim-in-rising-water) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ramkumar811311/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ramkumar811311/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ramkumar811311/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Ramkumar811311/DSA/tree/master/0827-making-a-large-island) |
@@ -431,6 +433,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ramkumar811311/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ramkumar811311/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -457,6 +460,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ramkumar811311/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ramkumar811311/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -472,4 +476,5 @@
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ramkumar811311/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ramkumar811311/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
