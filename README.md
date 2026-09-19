@@ -427,6 +427,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ramkumar811311/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -451,6 +452,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ramkumar811311/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -461,4 +463,8 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ramkumar811311/DSA/tree/master/0113-path-sum-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
