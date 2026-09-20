@@ -19,6 +19,7 @@
 | [0827-making-a-large-island](https://github.com/Ramkumar811311/DSA/tree/master/0827-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/Ramkumar811311/DSA/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/Ramkumar811311/DSA/tree/master/0934-shortest-bridge) |
+| [0986-interval-list-intersections](https://github.com/Ramkumar811311/DSA/tree/master/0986-interval-list-intersections) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Ramkumar811311/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/Ramkumar811311/DSA/tree/master/0997-find-the-town-judge) |
 | [1034-coloring-a-border](https://github.com/Ramkumar811311/DSA/tree/master/1034-coloring-a-border) |
@@ -398,6 +399,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Ramkumar811311/DSA/tree/master/0018-4sum) |
+| [0986-interval-list-intersections](https://github.com/Ramkumar811311/DSA/tree/master/0986-interval-list-intersections) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -490,4 +492,8 @@
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0897-increasing-order-search-tree) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Ramkumar811311/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
