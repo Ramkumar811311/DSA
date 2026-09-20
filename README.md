@@ -12,6 +12,7 @@
 | [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ramkumar811311/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Ramkumar811311/DSA/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/Ramkumar811311/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Ramkumar811311/DSA/tree/master/0752-open-the-lock) |
@@ -291,6 +292,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Ramkumar811311/DSA/tree/master/0018-4sum) |
+| [0435-non-overlapping-intervals](https://github.com/Ramkumar811311/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/Ramkumar811311/DSA/tree/master/1288-remove-covered-intervals) |
 | [3731-find-missing-elements](https://github.com/Ramkumar811311/DSA/tree/master/3731-find-missing-elements) |
@@ -345,6 +347,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Ramkumar811311/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ramkumar811311/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1162-as-far-from-land-as-possible](https://github.com/Ramkumar811311/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ramkumar811311/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -496,4 +499,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Ramkumar811311/DSA/tree/master/0986-interval-list-intersections) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Ramkumar811311/DSA/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
