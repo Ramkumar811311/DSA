@@ -348,6 +348,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ramkumar811311/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ramkumar811311/DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Ramkumar811311/DSA/tree/master/0732-my-calendar-iii) |
 | [0778-swim-in-rising-water](https://github.com/Ramkumar811311/DSA/tree/master/0778-swim-in-rising-water) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -515,20 +516,24 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ramkumar811311/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ramkumar811311/DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Ramkumar811311/DSA/tree/master/0732-my-calendar-iii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ramkumar811311/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ramkumar811311/DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Ramkumar811311/DSA/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ramkumar811311/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ramkumar811311/DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Ramkumar811311/DSA/tree/master/0732-my-calendar-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Ramkumar811311/DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Ramkumar811311/DSA/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/Ramkumar811311/DSA/tree/master/1094-car-pooling) |
 ## Simulation
 |  |
