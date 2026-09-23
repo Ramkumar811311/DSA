@@ -9,13 +9,11 @@ class MyCalendarThree {
         map.put(startTime, map.getOrDefault(startTime, 0) + 1);
         map.put(endTime, map.getOrDefault(endTime, 0) - 1);
 
-        int maxIn=0;
-        int countSum=0;
-        for(int value:map.values()){
-            countSum+=value;
-            if(countSum>maxIn){
-                maxIn=countSum;
-            }
+        int maxIn = 0;
+        int countSum = 0;
+        for (int value : map.values()) {
+            countSum += value;
+            maxIn = Math.max(countSum, maxIn);
         }
         return maxIn;
     }
