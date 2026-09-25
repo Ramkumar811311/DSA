@@ -95,6 +95,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Ramkumar811311/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ramkumar811311/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Ramkumar811311/DSA/tree/master/0419-battleships-in-a-board) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ramkumar811311/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ramkumar811311/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ramkumar811311/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -451,6 +452,7 @@
 | [0113-path-sum-ii](https://github.com/Ramkumar811311/DSA/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ramkumar811311/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ramkumar811311/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ramkumar811311/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ramkumar811311/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -480,6 +482,7 @@
 | [0113-path-sum-ii](https://github.com/Ramkumar811311/DSA/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ramkumar811311/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ramkumar811311/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ramkumar811311/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ramkumar811311/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -503,6 +506,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ramkumar811311/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramkumar811311/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
