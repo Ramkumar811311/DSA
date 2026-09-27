@@ -24,34 +24,35 @@
  * }
  */
 class Solution {
-    public static ListNode findMidNode(ListNode node, int mid) {
-        ListNode temp = node;
-        for (int i = 0; i < mid; i++) {
-            temp = temp.next;
-        }
-        return temp;
-    }
 
-    public static TreeNode listToBst(ListNode head, int low, int high) {
-        if (low > high) {
+    public static TreeNode listToBst(ListNode head) {
+        if (head == null) {
             return null;
         }
-        int mid = (low + high) / 2;
-        ListNode midNode = findMidNode(head, mid);
-        TreeNode root = new TreeNode(midNode.val);
-        root.left = listToBst(head, low, mid - 1);
-        root.right = listToBst(head, mid + 1, high);
+        if(head.next==null){
+            return new TreeNode(head.val);
+        }
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prev = null;
+        while (fast != null && fast.next != null) {
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+       
+            prev.next = null;
+        
+        ListNode newHead = slow.next;
+        TreeNode root = new TreeNode(slow.val);
+        slow.next = null;
+        root.left = listToBst(head);
+        root.right = listToBst(newHead);
         return root;
     }
 
     public TreeNode sortedListToBST(ListNode head) {
-        ListNode temp = head;
-        int size = 0;
-        while (temp != null) {
-            size++;
-            temp = temp.next;
-        }
-        return listToBst(head, 0, size - 1);
+        return listToBst(head);
 
     }
 }
