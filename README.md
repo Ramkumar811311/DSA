@@ -267,6 +267,7 @@
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Ramkumar811311/DSA/tree/master/0752-open-the-lock) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Ramkumar811311/DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ramkumar811311/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ramkumar811311/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramkumar811311/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -528,6 +529,7 @@
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0897-increasing-order-search-tree) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sweep Line
 |  |
 | ------- |
@@ -570,4 +572,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ramkumar811311/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
