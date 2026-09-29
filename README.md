@@ -121,6 +121,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ramkumar811311/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1034-coloring-a-border](https://github.com/Ramkumar811311/DSA/tree/master/1034-coloring-a-border) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramkumar811311/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Ramkumar811311/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/Ramkumar811311/DSA/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/Ramkumar811311/DSA/tree/master/1302-deepest-leaves-sum) |
@@ -476,6 +477,7 @@
 | [0897-increasing-order-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ramkumar811311/DSA/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramkumar811311/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ramkumar811311/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Ramkumar811311/DSA/tree/master/1609-even-odd-tree) |
@@ -510,6 +512,7 @@
 | [0897-increasing-order-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ramkumar811311/DSA/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramkumar811311/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ramkumar811311/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Ramkumar811311/DSA/tree/master/1609-even-odd-tree) |
@@ -532,6 +535,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramkumar811311/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ramkumar811311/DSA/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramkumar811311/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Stack
 |  |
 | ------- |
