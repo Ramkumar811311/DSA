@@ -125,6 +125,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/Ramkumar811311/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/Ramkumar811311/DSA/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/Ramkumar811311/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ramkumar811311/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ramkumar811311/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -312,6 +313,7 @@
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [1094-car-pooling](https://github.com/Ramkumar811311/DSA/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/Ramkumar811311/DSA/tree/master/1288-remove-covered-intervals) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ramkumar811311/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1943-describe-the-painting](https://github.com/Ramkumar811311/DSA/tree/master/1943-describe-the-painting) |
 | [3731-find-missing-elements](https://github.com/Ramkumar811311/DSA/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -479,6 +481,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramkumar811311/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ramkumar811311/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ramkumar811311/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Ramkumar811311/DSA/tree/master/1609-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ramkumar811311/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -514,6 +517,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramkumar811311/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ramkumar811311/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ramkumar811311/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Ramkumar811311/DSA/tree/master/1609-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ramkumar811311/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -536,6 +540,7 @@
 | [0897-increasing-order-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ramkumar811311/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramkumar811311/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ramkumar811311/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Stack
 |  |
 | ------- |
