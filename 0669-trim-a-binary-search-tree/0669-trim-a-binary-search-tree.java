@@ -24,10 +24,9 @@ class Solution {
         if (node.val > high) {
             return trimABst(node.left, low, high);
         }
-        TreeNode root = new TreeNode(node.val);
-        root.left = trimABst(node.left, low, high);
-        root.right = trimABst(node.right, low, high);
-        return root;
+        node.left = trimABst(node.left, low, high);
+        node.right = trimABst(node.right, low, high);
+        return node;
     }
     public TreeNode trimBST(TreeNode root, int low, int high) {
         return trimABst(root, low, high);
