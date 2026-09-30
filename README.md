@@ -104,6 +104,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0669-trim-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/Ramkumar811311/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
@@ -473,6 +474,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0669-trim-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ramkumar811311/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramkumar811311/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -509,6 +511,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0669-trim-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ramkumar811311/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramkumar811311/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -534,6 +537,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ramkumar811311/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ramkumar811311/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ramkumar811311/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramkumar811311/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
