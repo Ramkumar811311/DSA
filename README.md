@@ -118,6 +118,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Ramkumar811311/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Ramkumar811311/DSA/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Ramkumar811311/DSA/tree/master/0841-keys-and-rooms) |
+| [0872-leaf-similar-trees](https://github.com/Ramkumar811311/DSA/tree/master/0872-leaf-similar-trees) |
 | [0886-possible-bipartition](https://github.com/Ramkumar811311/DSA/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0934-shortest-bridge](https://github.com/Ramkumar811311/DSA/tree/master/0934-shortest-bridge) |
@@ -488,6 +489,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ramkumar811311/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramkumar811311/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/Ramkumar811311/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ramkumar811311/DSA/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -529,6 +531,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ramkumar811311/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramkumar811311/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/Ramkumar811311/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ramkumar811311/DSA/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
