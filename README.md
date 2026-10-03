@@ -124,6 +124,7 @@
 | [0934-shortest-bridge](https://github.com/Ramkumar811311/DSA/tree/master/0934-shortest-bridge) |
 | [0938-range-sum-of-bst](https://github.com/Ramkumar811311/DSA/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ramkumar811311/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0965-univalued-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ramkumar811311/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1034-coloring-a-border](https://github.com/Ramkumar811311/DSA/tree/master/1034-coloring-a-border) |
@@ -180,6 +181,7 @@
 | [0886-possible-bipartition](https://github.com/Ramkumar811311/DSA/tree/master/0886-possible-bipartition) |
 | [0909-snakes-and-ladders](https://github.com/Ramkumar811311/DSA/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/Ramkumar811311/DSA/tree/master/0934-shortest-bridge) |
+| [0965-univalued-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1034-coloring-a-border](https://github.com/Ramkumar811311/DSA/tree/master/1034-coloring-a-border) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ramkumar811311/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -492,6 +494,7 @@
 | [0872-leaf-similar-trees](https://github.com/Ramkumar811311/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ramkumar811311/DSA/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ramkumar811311/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramkumar811311/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -534,6 +537,7 @@
 | [0872-leaf-similar-trees](https://github.com/Ramkumar811311/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ramkumar811311/DSA/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ramkumar811311/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramkumar811311/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
