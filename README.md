@@ -90,6 +90,7 @@
 | [0112-path-sum](https://github.com/Ramkumar811311/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ramkumar811311/DSA/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ramkumar811311/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ramkumar811311/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0207-course-schedule](https://github.com/Ramkumar811311/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramkumar811311/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0226-invert-binary-tree) |
@@ -158,6 +159,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ramkumar811311/DSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ramkumar811311/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ramkumar811311/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/Ramkumar811311/DSA/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Ramkumar811311/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramkumar811311/DSA/tree/master/0210-course-schedule-ii) |
@@ -259,6 +261,7 @@
 | [0002-add-two-numbers](https://github.com/Ramkumar811311/DSA/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ramkumar811311/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ramkumar811311/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Math
 |  |
 | ------- |
@@ -480,6 +483,7 @@
 | [0112-path-sum](https://github.com/Ramkumar811311/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ramkumar811311/DSA/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ramkumar811311/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ramkumar811311/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ramkumar811311/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -525,6 +529,7 @@
 | [0112-path-sum](https://github.com/Ramkumar811311/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ramkumar811311/DSA/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ramkumar811311/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ramkumar811311/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ramkumar811311/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
