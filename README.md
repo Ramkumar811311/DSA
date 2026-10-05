@@ -289,6 +289,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Ramkumar811311/DSA/tree/master/0752-open-the-lock) |
+| [0856-score-of-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/0856-score-of-parentheses) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Ramkumar811311/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ramkumar811311/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -586,6 +587,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sweep Line
@@ -636,6 +638,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## DP on Trees
 |  |
