@@ -14,6 +14,6 @@ class Solution {
                 ans++;
             }
         }
-        return Math.abs(count + ans);
+        return count + ans;
     }
 }
