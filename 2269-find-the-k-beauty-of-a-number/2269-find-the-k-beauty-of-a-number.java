@@ -10,7 +10,7 @@ class Solution {
             int digit = ch-'0';
             n=n*10+digit;
             if(r-l+1>k){
-                int divisor = (int) Math.pow(10, r-l);
+                int divisor = (int) Math.pow(10, k);
                n%=divisor;
                l++;
             }
