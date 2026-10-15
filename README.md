@@ -52,6 +52,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ramkumar811311/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramkumar811311/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/Ramkumar811311/DSA/tree/master/2923-find-champion-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3206-alternating-groups-i](https://github.com/Ramkumar811311/DSA/tree/master/3206-alternating-groups-i) |
@@ -87,6 +88,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ramkumar811311/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ramkumar811311/DSA/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramkumar811311/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramkumar811311/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ramkumar811311/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -657,6 +659,7 @@
 | [0729-my-calendar-i](https://github.com/Ramkumar811311/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ramkumar811311/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ramkumar811311/DSA/tree/master/0732-my-calendar-iii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramkumar811311/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -712,4 +715,8 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Ramkumar811311/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramkumar811311/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
