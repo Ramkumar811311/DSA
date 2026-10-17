@@ -7,16 +7,20 @@ class Solution {
         }
         return sum;
     }
+
     public int minSwaps(int[] nums) {
+        HashMap<Integer, Integer> digitSumMap = new HashMap<>();
         HashMap<Integer, Integer> map = new HashMap<>();
         Integer sorted[] = new Integer[nums.length];
+
         for (int i = 0; i < nums.length; i++) {
+            digitSumMap.put(nums[i], sumOfDigit(nums[i]));
             sorted[i] = nums[i];
             map.put(nums[i], i);
         }
         Arrays.sort(sorted, (a, b) -> {
-            int sumA = sumOfDigit(a);
-            int sumB = sumOfDigit(b);
+            int sumA = digitSumMap.get(a);
+            int sumB = digitSumMap.get(b);
             if (sumA != sumB) {
                 return Integer.compare(sumA, sumB);
             }
