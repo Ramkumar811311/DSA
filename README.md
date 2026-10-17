@@ -77,6 +77,7 @@
 | [0127-word-ladder](https://github.com/Ramkumar811311/DSA/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/Ramkumar811311/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Ramkumar811311/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ramkumar811311/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/Ramkumar811311/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ramkumar811311/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
@@ -306,6 +307,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Ramkumar811311/DSA/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/Ramkumar811311/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ramkumar811311/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Ramkumar811311/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0606-construct-string-from-binary-tree) |
@@ -329,6 +331,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramkumar811311/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Ramkumar811311/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Ramkumar811311/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ramkumar811311/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ramkumar811311/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Ramkumar811311/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -515,6 +518,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ramkumar811311/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
