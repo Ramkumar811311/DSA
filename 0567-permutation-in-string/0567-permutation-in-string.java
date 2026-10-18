@@ -1,5 +1,8 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
+        if (s1.length() > s2.length()) {
+            return false;
+        }
         int freq[] = new int[26];
         int window[] = new int[26];
         int k = s1.length();
