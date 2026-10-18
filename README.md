@@ -80,6 +80,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ramkumar811311/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ramkumar811311/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/Ramkumar811311/DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ramkumar811311/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ramkumar811311/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
@@ -311,6 +312,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ramkumar811311/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Ramkumar811311/DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ramkumar811311/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Ramkumar811311/DSA/tree/master/0752-open-the-lock) |
@@ -334,6 +336,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ramkumar811311/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ramkumar811311/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Ramkumar811311/DSA/tree/master/0413-arithmetic-slices) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ramkumar811311/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ramkumar811311/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Ramkumar811311/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
