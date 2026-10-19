@@ -53,6 +53,7 @@
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ramkumar811311/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ramkumar811311/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Ramkumar811311/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ramkumar811311/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramkumar811311/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -349,6 +350,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ramkumar811311/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ramkumar811311/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Ramkumar811311/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ramkumar811311/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ramkumar811311/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -448,6 +450,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ramkumar811311/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Ramkumar811311/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -703,6 +706,7 @@
 | [0732-my-calendar-iii](https://github.com/Ramkumar811311/DSA/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/Ramkumar811311/DSA/tree/master/1094-car-pooling) |
 | [1943-describe-the-painting](https://github.com/Ramkumar811311/DSA/tree/master/1943-describe-the-painting) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Ramkumar811311/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ramkumar811311/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
