@@ -11,6 +11,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Ramkumar811311/DSA/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Ramkumar811311/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/Ramkumar811311/DSA/tree/master/0413-arithmetic-slices) |
@@ -116,6 +117,7 @@
 | [0113-path-sum-ii](https://github.com/Ramkumar811311/DSA/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ramkumar811311/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ramkumar811311/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/Ramkumar811311/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ramkumar811311/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramkumar811311/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0226-invert-binary-tree) |
@@ -187,6 +189,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ramkumar811311/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ramkumar811311/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/Ramkumar811311/DSA/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/Ramkumar811311/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ramkumar811311/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramkumar811311/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0226-invert-binary-tree) |
@@ -363,6 +366,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ramkumar811311/DSA/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Ramkumar811311/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
@@ -421,6 +425,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ramkumar811311/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ramkumar811311/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Ramkumar811311/DSA/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
