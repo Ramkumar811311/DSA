@@ -37,6 +37,7 @@
 | [0997-find-the-town-judge](https://github.com/Ramkumar811311/DSA/tree/master/0997-find-the-town-judge) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ramkumar811311/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1034-coloring-a-border](https://github.com/Ramkumar811311/DSA/tree/master/1034-coloring-a-border) |
+| [1052-grumpy-bookstore-owner](https://github.com/Ramkumar811311/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ramkumar811311/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/Ramkumar811311/DSA/tree/master/1094-car-pooling) |
 | [1162-as-far-from-land-as-possible](https://github.com/Ramkumar811311/DSA/tree/master/1162-as-far-from-land-as-possible) |
@@ -353,6 +354,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Ramkumar811311/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0978-longest-turbulent-subarray](https://github.com/Ramkumar811311/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ramkumar811311/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1052-grumpy-bookstore-owner](https://github.com/Ramkumar811311/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ramkumar811311/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
