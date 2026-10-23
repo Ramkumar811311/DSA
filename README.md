@@ -331,6 +331,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ramkumar811311/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Ramkumar811311/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Ramkumar811311/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ramkumar811311/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -355,6 +356,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/Ramkumar811311/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ramkumar811311/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1052-grumpy-bookstore-owner](https://github.com/Ramkumar811311/DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Ramkumar811311/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ramkumar811311/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -458,6 +460,7 @@
 | [0731-my-calendar-ii](https://github.com/Ramkumar811311/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ramkumar811311/DSA/tree/master/0732-my-calendar-iii) |
 | [0778-swim-in-rising-water](https://github.com/Ramkumar811311/DSA/tree/master/0778-swim-in-rising-water) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Ramkumar811311/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ramkumar811311/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -718,6 +721,7 @@
 | [0731-my-calendar-ii](https://github.com/Ramkumar811311/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ramkumar811311/DSA/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/Ramkumar811311/DSA/tree/master/1094-car-pooling) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Ramkumar811311/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1943-describe-the-painting](https://github.com/Ramkumar811311/DSA/tree/master/1943-describe-the-painting) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ramkumar811311/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ramkumar811311/DSA/tree/master/3364-minimum-positive-sum-subarray) |
