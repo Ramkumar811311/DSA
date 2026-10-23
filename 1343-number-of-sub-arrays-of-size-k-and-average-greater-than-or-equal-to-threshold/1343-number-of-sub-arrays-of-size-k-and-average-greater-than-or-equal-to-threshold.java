@@ -11,7 +11,7 @@ class Solution {
                 l++;
             }
 
-            if (r - l + 1 == k && sum >=threshold*k) {
+            if (r - l + 1 == k && sum / k>=threshold) {
                 ans++;
             }
             r++;
