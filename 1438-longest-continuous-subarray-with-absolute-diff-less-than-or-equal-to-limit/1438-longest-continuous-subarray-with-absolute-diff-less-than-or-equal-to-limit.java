@@ -1,8 +1,7 @@
-import java.util.SortedMap;
 class Solution {
     public int longestSubarray(int[] nums, int limit) {
         int maxLen = 0;
-        SortedMap<Integer, Integer> map = new TreeMap<>();
+       TreeMap<Integer, Integer> map = new TreeMap<>();
         int l = 0;
         int r = 0;
         while (r < nums.length) {
