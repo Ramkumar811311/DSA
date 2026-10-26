@@ -46,6 +46,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ramkumar811311/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ramkumar811311/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ramkumar811311/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/Ramkumar811311/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Ramkumar811311/DSA/tree/master/1765-map-of-highest-peak) |
@@ -367,6 +368,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ramkumar811311/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ramkumar811311/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ramkumar811311/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ramkumar811311/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ramkumar811311/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -488,6 +490,7 @@
 | [1162-as-far-from-land-as-possible](https://github.com/Ramkumar811311/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ramkumar811311/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ramkumar811311/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ramkumar811311/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bipartite Graph
 |  |
