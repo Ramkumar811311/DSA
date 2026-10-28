@@ -11,6 +11,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Ramkumar811311/DSA/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Ramkumar811311/DSA/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Ramkumar811311/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
@@ -467,6 +468,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Ramkumar811311/DSA/tree/master/0162-find-peak-element) |
 | [0713-subarray-product-less-than-k](https://github.com/Ramkumar811311/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Ramkumar811311/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ramkumar811311/DSA/tree/master/0731-my-calendar-ii) |
