@@ -19,6 +19,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Ramkumar811311/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Ramkumar811311/DSA/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Ramkumar811311/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/Ramkumar811311/DSA/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ramkumar811311/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Ramkumar811311/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0654-maximum-binary-tree) |
@@ -92,6 +93,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ramkumar811311/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/Ramkumar811311/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ramkumar811311/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Ramkumar811311/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Ramkumar811311/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ramkumar811311/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
@@ -696,6 +698,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Ramkumar811311/DSA/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0654-maximum-binary-tree) |
 | [0856-score-of-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0897-increasing-order-search-tree) |
@@ -780,6 +783,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Ramkumar811311/DSA/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0654-maximum-binary-tree) |
 ## Cartesian Tree
 |  |
