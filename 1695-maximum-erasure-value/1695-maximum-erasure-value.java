@@ -4,15 +4,15 @@ class Solution {
         int r = 0;
         int score = 0;
         int maxscore = 0;
-        HashSet<Integer> set = new HashSet<>();
+        int freq[] = new int[10001];
         while (r < nums.length) {
             score += nums[r];
-            while (!set.isEmpty() && set.contains(nums[r])) {
-                set.remove(nums[l]);
+            while (freq[nums[r]] == 1) {
+                freq[nums[l]]--;
                 score -= nums[l];
                 l++;
             }
-            set.add(nums[r]);
+            freq[nums[r]]++;
             maxscore = Math.max(score, maxscore);
             r++;
         }
