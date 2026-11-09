@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Ramkumar811311/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Ramkumar811311/DSA/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Ramkumar811311/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ramkumar811311/DSA/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramkumar811311/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -506,6 +507,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ramkumar811311/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ramkumar811311/DSA/tree/master/0055-jump-game) |
 | [0413-arithmetic-slices](https://github.com/Ramkumar811311/DSA/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Ramkumar811311/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ramkumar811311/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -737,6 +739,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ramkumar811311/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ramkumar811311/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Ramkumar811311/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ramkumar811311/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Ramkumar811311/DSA/tree/master/0860-lemonade-change) |
