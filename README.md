@@ -32,6 +32,7 @@
 | [0752-open-the-lock](https://github.com/Ramkumar811311/DSA/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Ramkumar811311/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Ramkumar811311/DSA/tree/master/0827-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/Ramkumar811311/DSA/tree/master/0860-lemonade-change) |
 | [0909-snakes-and-ladders](https://github.com/Ramkumar811311/DSA/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/Ramkumar811311/DSA/tree/master/0934-shortest-bridge) |
 | [0978-longest-turbulent-subarray](https://github.com/Ramkumar811311/DSA/tree/master/0978-longest-turbulent-subarray) |
@@ -738,6 +739,7 @@
 | [0011-container-with-most-water](https://github.com/Ramkumar811311/DSA/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/Ramkumar811311/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ramkumar811311/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Ramkumar811311/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ramkumar811311/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ramkumar811311/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar811311/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
