@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Ramkumar811311/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ramkumar811311/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Ramkumar811311/DSA/tree/master/0018-4sum) |
+| [0045-jump-game-ii](https://github.com/Ramkumar811311/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ramkumar811311/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ramkumar811311/DSA/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramkumar811311/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -506,6 +507,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Ramkumar811311/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ramkumar811311/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ramkumar811311/DSA/tree/master/0055-jump-game) |
 | [0413-arithmetic-slices](https://github.com/Ramkumar811311/DSA/tree/master/0413-arithmetic-slices) |
@@ -739,6 +741,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ramkumar811311/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Ramkumar811311/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ramkumar811311/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Ramkumar811311/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ramkumar811311/DSA/tree/master/0455-assign-cookies) |
