@@ -358,6 +358,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Ramkumar811311/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ramkumar811311/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1328-break-a-palindrome](https://github.com/Ramkumar811311/DSA/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ramkumar811311/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Ramkumar811311/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
@@ -762,6 +763,7 @@
 | [0881-boats-to-save-people](https://github.com/Ramkumar811311/DSA/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ramkumar811311/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Ramkumar811311/DSA/tree/master/0948-bag-of-tokens) |
+| [1328-break-a-palindrome](https://github.com/Ramkumar811311/DSA/tree/master/1328-break-a-palindrome) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ramkumar811311/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar811311/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
