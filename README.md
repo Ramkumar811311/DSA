@@ -58,6 +58,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ramkumar811311/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/Ramkumar811311/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ramkumar811311/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramkumar811311/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Ramkumar811311/DSA/tree/master/1695-maximum-erasure-value) |
@@ -361,6 +362,7 @@
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ramkumar811311/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1328-break-a-palindrome](https://github.com/Ramkumar811311/DSA/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ramkumar811311/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ramkumar811311/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Ramkumar811311/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -529,6 +531,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ramkumar811311/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ramkumar811311/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ramkumar811311/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ramkumar811311/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bipartite Graph
 |  |
@@ -766,6 +769,7 @@
 | [0948-bag-of-tokens](https://github.com/Ramkumar811311/DSA/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Ramkumar811311/DSA/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Ramkumar811311/DSA/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ramkumar811311/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ramkumar811311/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar811311/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
