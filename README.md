@@ -326,6 +326,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ramkumar811311/DSA/tree/master/0002-add-two-numbers) |
 | [0991-broken-calculator](https://github.com/Ramkumar811311/DSA/tree/master/0991-broken-calculator) |
+| [1323-maximum-69-number](https://github.com/Ramkumar811311/DSA/tree/master/1323-maximum-69-number) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ramkumar811311/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ramkumar811311/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ramkumar811311/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -773,6 +774,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ramkumar811311/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Ramkumar811311/DSA/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Ramkumar811311/DSA/tree/master/0991-broken-calculator) |
+| [1323-maximum-69-number](https://github.com/Ramkumar811311/DSA/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/Ramkumar811311/DSA/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ramkumar811311/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ramkumar811311/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
