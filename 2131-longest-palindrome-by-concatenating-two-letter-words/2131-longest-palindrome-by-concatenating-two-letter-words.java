@@ -2,26 +2,29 @@ class Solution {
     public int longestPalindrome(String[] words) {
         boolean isCentredUsed = false;
         int len = 0;
-        HashMap<String, Integer> map = new HashMap<>();
+        int freq[][] = new int[26][26];
         for (int i = 0; i < words.length; i++) {
-            map.put(words[i], map.getOrDefault(words[i], 0) + 1);
+            int ind1 = words[i].charAt(0) - 'a';
+            int ind2 = words[i].charAt(1) - 'a';
+            freq[ind1][ind2] += 1;
         }
         for (String word : words) {
-            String reverse = new StringBuilder(word).reverse().toString();
-            if (!map.containsKey(word) || !map.containsKey(reverse)) {
-                continue;
-            }
-            if (!reverse.equals(word)) {
-                if (map.get(word) > 0 && map.get(reverse) > 0) {
-                    map.put(word, map.get(word) - 1);
-                    map.put(reverse, map.get(reverse) - 1);
+            int ind1 = word.charAt(0) - 'a';
+            int ind2 = word.charAt(1) - 'a';
+
+            int r_ind1 = ind2;
+            int r_ind2 = ind1;
+            if (ind1 != ind2) {
+                if (freq[ind1][ind2] > 0 && freq[r_ind1][r_ind2] > 0) {
+                    freq[ind1][ind2]--;
+                    freq[r_ind1][r_ind2]--;
                     len += 4;
                 }
             } else {
-                if (map.get(word) > 1) {
+                if (freq[ind1][ind2] > 1) {
                     len += 4;
-                    map.put(word, map.get(word) - 2);
-                } else if (map.get(word) == 1 && !isCentredUsed) {
+                    freq[ind1][ind2] -= 2;
+                } else if (freq[ind1][ind2] == 1 && !isCentredUsed) {
                     len += 2;
                     isCentredUsed = true;
                 }
