@@ -8,13 +8,10 @@ class Solution {
         for (int val : freq.values()) {
             if (val < 2) {
                 return -1;
-            }
-            int remainder = val % 3;
-            int qoutient = val / 3;
-            if (remainder == 0 || remainder == 1) {
-                minRound += (remainder + qoutient);
+            } else if (val % 3 == 0) {
+                minRound += val / 3;
             } else {
-                minRound += (remainder + qoutient) - 1;
+                minRound += val / 3 + 1;
             }
         }
         return minRound;
