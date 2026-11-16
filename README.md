@@ -80,6 +80,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ramkumar811311/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ramkumar811311/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ramkumar811311/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramkumar811311/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/Ramkumar811311/DSA/tree/master/2923-find-champion-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -129,6 +130,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ramkumar811311/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ramkumar811311/DSA/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ramkumar811311/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramkumar811311/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramkumar811311/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -785,6 +787,7 @@
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Ramkumar811311/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ramkumar811311/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ramkumar811311/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ramkumar811311/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ramkumar811311/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar811311/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
@@ -869,6 +872,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ramkumar811311/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ramkumar811311/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ramkumar811311/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Binary Indexed Tree
 |  |
 | ------- |
