@@ -337,6 +337,7 @@
 | [0002-add-two-numbers](https://github.com/Ramkumar811311/DSA/tree/master/0002-add-two-numbers) |
 | [0991-broken-calculator](https://github.com/Ramkumar811311/DSA/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/Ramkumar811311/DSA/tree/master/1323-maximum-69-number) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ramkumar811311/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ramkumar811311/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ramkumar811311/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Ramkumar811311/DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -382,6 +383,7 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Ramkumar811311/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ramkumar811311/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ramkumar811311/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ramkumar811311/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ramkumar811311/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -797,6 +799,7 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ramkumar811311/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ramkumar811311/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ramkumar811311/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ramkumar811311/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Ramkumar811311/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ramkumar811311/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -937,4 +940,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Ramkumar811311/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Game Theory
+|  |
+| ------- |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ramkumar811311/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
