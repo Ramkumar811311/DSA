@@ -1,7 +1,9 @@
 class Solution {
     public int minimizeSum(int[] nums) {
-        Arrays.sort(nums);
         int n = nums.length;
+        if (n <= 3)
+            return 0;
+        Arrays.sort(nums);
         int high = nums[n - 1] - nums[0];
         high = Math.min(high, nums[n - 3] - nums[0]);
         high = Math.min(high, nums[n - 2] - nums[1]);
