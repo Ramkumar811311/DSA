@@ -123,6 +123,7 @@
 | [0997-find-the-town-judge](https://github.com/Ramkumar811311/DSA/tree/master/0997-find-the-town-judge) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ramkumar811311/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramkumar811311/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Ramkumar811311/DSA/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -378,6 +379,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ramkumar811311/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ramkumar811311/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Ramkumar811311/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ramkumar811311/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -462,6 +464,7 @@
 | [1288-remove-covered-intervals](https://github.com/Ramkumar811311/DSA/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ramkumar811311/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ramkumar811311/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1943-describe-the-painting](https://github.com/Ramkumar811311/DSA/tree/master/1943-describe-the-painting) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ramkumar811311/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -791,6 +794,7 @@
 | [1323-maximum-69-number](https://github.com/Ramkumar811311/DSA/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/Ramkumar811311/DSA/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ramkumar811311/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ramkumar811311/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ramkumar811311/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ramkumar811311/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
