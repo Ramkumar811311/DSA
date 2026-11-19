@@ -14,10 +14,6 @@ class Solution {
                 }
             }
         }
-
-        if (alice > bob) {
-            return true;
-        }
-        return false;
+        return alice>bob;
     }
 }
