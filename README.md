@@ -63,6 +63,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramkumar811311/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Ramkumar811311/DSA/tree/master/1695-maximum-erasure-value) |
 | [1765-map-of-highest-peak](https://github.com/Ramkumar811311/DSA/tree/master/1765-map-of-highest-peak) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Ramkumar811311/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ramkumar811311/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ramkumar811311/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1905-count-sub-islands](https://github.com/Ramkumar811311/DSA/tree/master/1905-count-sub-islands) |
@@ -539,6 +540,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramkumar811311/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Ramkumar811311/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ramkumar811311/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ramkumar811311/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Dynamic Programming
@@ -617,6 +619,7 @@
 | [0948-bag-of-tokens](https://github.com/Ramkumar811311/DSA/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/Ramkumar811311/DSA/tree/master/0986-interval-list-intersections) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Ramkumar811311/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -776,6 +779,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ramkumar811311/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramkumar811311/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Ramkumar811311/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Sweep Line
 |  |
 | ------- |
@@ -883,10 +887,12 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ramkumar811311/DSA/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0654-maximum-binary-tree) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Ramkumar811311/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Cartesian Tree
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0654-maximum-binary-tree) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Ramkumar811311/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Counting
 |  |
 | ------- |
