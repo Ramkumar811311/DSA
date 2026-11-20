@@ -66,6 +66,7 @@
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Ramkumar811311/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ramkumar811311/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ramkumar811311/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ramkumar811311/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1905-count-sub-islands](https://github.com/Ramkumar811311/DSA/tree/master/1905-count-sub-islands) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Ramkumar811311/DSA/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ramkumar811311/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -471,6 +472,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ramkumar811311/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ramkumar811311/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Ramkumar811311/DSA/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1943-describe-the-painting](https://github.com/Ramkumar811311/DSA/tree/master/1943-describe-the-painting) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ramkumar811311/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -807,6 +809,7 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ramkumar811311/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ramkumar811311/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ramkumar811311/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Ramkumar811311/DSA/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ramkumar811311/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ramkumar811311/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
