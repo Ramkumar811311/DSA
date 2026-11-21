@@ -58,6 +58,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ramkumar811311/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/Ramkumar811311/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ramkumar811311/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ramkumar811311/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramkumar811311/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -341,6 +342,7 @@
 | [0002-add-two-numbers](https://github.com/Ramkumar811311/DSA/tree/master/0002-add-two-numbers) |
 | [0991-broken-calculator](https://github.com/Ramkumar811311/DSA/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/Ramkumar811311/DSA/tree/master/1323-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ramkumar811311/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ramkumar811311/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ramkumar811311/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ramkumar811311/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -470,6 +472,7 @@
 | [1288-remove-covered-intervals](https://github.com/Ramkumar811311/DSA/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ramkumar811311/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ramkumar811311/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ramkumar811311/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ramkumar811311/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -805,6 +808,7 @@
 | [0991-broken-calculator](https://github.com/Ramkumar811311/DSA/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/Ramkumar811311/DSA/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/Ramkumar811311/DSA/tree/master/1328-break-a-palindrome) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ramkumar811311/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ramkumar811311/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ramkumar811311/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -958,5 +962,6 @@
 ## Game Theory
 |  |
 | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ramkumar811311/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ramkumar811311/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
