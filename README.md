@@ -93,6 +93,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramkumar811311/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/Ramkumar811311/DSA/tree/master/2923-find-champion-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ramkumar811311/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ramkumar811311/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3206-alternating-groups-i](https://github.com/Ramkumar811311/DSA/tree/master/3206-alternating-groups-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -484,6 +485,7 @@
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Ramkumar811311/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ramkumar811311/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ramkumar811311/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ramkumar811311/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ramkumar811311/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar811311/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ramkumar811311/DSA/tree/master/3731-find-missing-elements) |
@@ -827,6 +829,7 @@
 | [2405-optimal-partition-of-string](https://github.com/Ramkumar811311/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ramkumar811311/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ramkumar811311/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ramkumar811311/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ramkumar811311/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar811311/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
@@ -863,6 +866,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramkumar811311/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1943-describe-the-painting](https://github.com/Ramkumar811311/DSA/tree/master/1943-describe-the-painting) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ramkumar811311/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ramkumar811311/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ramkumar811311/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
@@ -967,4 +971,8 @@
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ramkumar811311/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ramkumar811311/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Polygons
+|  |
+| ------- |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ramkumar811311/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 <!---LeetCode Topics End-->
