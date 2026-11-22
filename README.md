@@ -395,6 +395,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Ramkumar811311/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Ramkumar811311/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ramkumar811311/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ramkumar811311/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Ramkumar811311/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ramkumar811311/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
