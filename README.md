@@ -57,6 +57,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ramkumar811311/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ramkumar811311/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ramkumar811311/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/Ramkumar811311/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ramkumar811311/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -130,6 +131,7 @@
 | [0997-find-the-town-judge](https://github.com/Ramkumar811311/DSA/tree/master/0997-find-the-town-judge) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ramkumar811311/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramkumar811311/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ramkumar811311/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramkumar811311/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Ramkumar811311/DSA/tree/master/1695-maximum-erasure-value) |
@@ -474,6 +476,7 @@
 | [1288-remove-covered-intervals](https://github.com/Ramkumar811311/DSA/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ramkumar811311/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramkumar811311/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ramkumar811311/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ramkumar811311/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ramkumar811311/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -813,6 +816,7 @@
 | [1323-maximum-69-number](https://github.com/Ramkumar811311/DSA/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ramkumar811311/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/Ramkumar811311/DSA/tree/master/1328-break-a-palindrome) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ramkumar811311/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ramkumar811311/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ramkumar811311/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -914,6 +918,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Ramkumar811311/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ramkumar811311/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ramkumar811311/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ramkumar811311/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
