@@ -14,13 +14,11 @@ class Solution {
             } else if (ladders > 0) {
                 if (!pq.isEmpty() && pq.peek() > diff) {
                     int maxBricksInPast = pq.poll();
-                    ladders--;
                     bricks += maxBricksInPast;
+                    bricks -= diff;
                     pq.add(diff);
-                    bricks-=diff;
-                } else {
-                    ladders--;
                 }
+                ladders--;
             } else {
                 return i;
             }
