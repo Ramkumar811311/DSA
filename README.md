@@ -63,6 +63,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ramkumar811311/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ramkumar811311/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/Ramkumar811311/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramkumar811311/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Ramkumar811311/DSA/tree/master/1695-maximum-erasure-value) |
 | [1765-map-of-highest-peak](https://github.com/Ramkumar811311/DSA/tree/master/1765-map-of-highest-peak) |
@@ -505,6 +506,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Ramkumar811311/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/Ramkumar811311/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Ramkumar811311/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/Ramkumar811311/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -820,6 +822,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ramkumar811311/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ramkumar811311/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ramkumar811311/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1642-furthest-building-you-can-reach](https://github.com/Ramkumar811311/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ramkumar811311/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ramkumar811311/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ramkumar811311/DSA/tree/master/1833-maximum-ice-cream-bars) |
