@@ -148,6 +148,7 @@
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ramkumar811311/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramkumar811311/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Ramkumar811311/DSA/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramkumar811311/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ramkumar811311/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ramkumar811311/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -403,6 +404,7 @@
 | [2405-optimal-partition-of-string](https://github.com/Ramkumar811311/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ramkumar811311/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ramkumar811311/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Ramkumar811311/DSA/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramkumar811311/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Ramkumar811311/DSA/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Sliding Window
@@ -491,6 +493,7 @@
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ramkumar811311/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ramkumar811311/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ramkumar811311/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Ramkumar811311/DSA/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ramkumar811311/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar811311/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ramkumar811311/DSA/tree/master/3731-find-missing-elements) |
@@ -838,6 +841,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ramkumar811311/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ramkumar811311/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ramkumar811311/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Ramkumar811311/DSA/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ramkumar811311/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar811311/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
@@ -927,6 +931,7 @@
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ramkumar811311/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ramkumar811311/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ramkumar811311/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Ramkumar811311/DSA/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Binary Indexed Tree
 |  |
 | ------- |
