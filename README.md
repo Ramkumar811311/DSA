@@ -25,6 +25,7 @@
 | [0455-assign-cookies](https://github.com/Ramkumar811311/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Ramkumar811311/DSA/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ramkumar811311/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Ramkumar811311/DSA/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Ramkumar811311/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
@@ -125,6 +126,7 @@
 | [0496-next-greater-element-i](https://github.com/Ramkumar811311/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Ramkumar811311/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ramkumar811311/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Ramkumar811311/DSA/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/Ramkumar811311/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Ramkumar811311/DSA/tree/master/0752-open-the-lock) |
@@ -473,6 +475,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ramkumar811311/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ramkumar811311/DSA/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ramkumar811311/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Ramkumar811311/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Ramkumar811311/DSA/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/Ramkumar811311/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Ramkumar811311/DSA/tree/master/0948-bag-of-tokens) |
@@ -501,6 +504,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ramkumar811311/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/Ramkumar811311/DSA/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ramkumar811311/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Ramkumar811311/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Ramkumar811311/DSA/tree/master/0778-swim-in-rising-water) |
@@ -813,6 +817,7 @@
 | [0135-candy](https://github.com/Ramkumar811311/DSA/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Ramkumar811311/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ramkumar811311/DSA/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Ramkumar811311/DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Ramkumar811311/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Ramkumar811311/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Ramkumar811311/DSA/tree/master/0881-boats-to-save-people) |
@@ -926,6 +931,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Ramkumar811311/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Ramkumar811311/DSA/tree/master/0621-task-scheduler) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ramkumar811311/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ramkumar811311/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ramkumar811311/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
