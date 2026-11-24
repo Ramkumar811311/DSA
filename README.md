@@ -97,6 +97,7 @@
 | [2923-find-champion-i](https://github.com/Ramkumar811311/DSA/tree/master/2923-find-champion-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ramkumar811311/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Ramkumar811311/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ramkumar811311/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3206-alternating-groups-i](https://github.com/Ramkumar811311/DSA/tree/master/3206-alternating-groups-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ramkumar811311/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -496,6 +497,7 @@
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ramkumar811311/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ramkumar811311/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ramkumar811311/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Ramkumar811311/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Ramkumar811311/DSA/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ramkumar811311/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar811311/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -846,6 +848,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ramkumar811311/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ramkumar811311/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ramkumar811311/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Ramkumar811311/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Ramkumar811311/DSA/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ramkumar811311/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar811311/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
