@@ -17,6 +17,7 @@
 | [0162-find-peak-element](https://github.com/Ramkumar811311/DSA/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Ramkumar811311/DSA/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Ramkumar811311/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0330-patching-array](https://github.com/Ramkumar811311/DSA/tree/master/0330-patching-array) |
 | [0399-evaluate-division](https://github.com/Ramkumar811311/DSA/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/Ramkumar811311/DSA/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ramkumar811311/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -828,6 +829,7 @@
 | [0045-jump-game-ii](https://github.com/Ramkumar811311/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ramkumar811311/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Ramkumar811311/DSA/tree/master/0135-candy) |
+| [0330-patching-array](https://github.com/Ramkumar811311/DSA/tree/master/0330-patching-array) |
 | [0435-non-overlapping-intervals](https://github.com/Ramkumar811311/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ramkumar811311/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Ramkumar811311/DSA/tree/master/0621-task-scheduler) |
