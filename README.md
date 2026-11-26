@@ -27,6 +27,7 @@
 | [0496-next-greater-element-i](https://github.com/Ramkumar811311/DSA/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ramkumar811311/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Ramkumar811311/DSA/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/Ramkumar811311/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Ramkumar811311/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Ramkumar811311/DSA/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ramkumar811311/DSA/tree/master/0695-max-area-of-island) |
@@ -839,6 +840,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ramkumar811311/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ramkumar811311/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Ramkumar811311/DSA/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/Ramkumar811311/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/Ramkumar811311/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Ramkumar811311/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Ramkumar811311/DSA/tree/master/0881-boats-to-save-people) |
