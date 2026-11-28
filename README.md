@@ -100,6 +100,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ramkumar811311/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ramkumar811311/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramkumar811311/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ramkumar811311/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2923-find-champion-i](https://github.com/Ramkumar811311/DSA/tree/master/2923-find-champion-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar811311/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ramkumar811311/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -879,6 +880,7 @@
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ramkumar811311/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ramkumar811311/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ramkumar811311/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ramkumar811311/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Ramkumar811311/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Ramkumar811311/DSA/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ramkumar811311/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
