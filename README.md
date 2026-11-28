@@ -48,6 +48,7 @@
 | [0986-interval-list-intersections](https://github.com/Ramkumar811311/DSA/tree/master/0986-interval-list-intersections) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Ramkumar811311/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/Ramkumar811311/DSA/tree/master/0997-find-the-town-judge) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Ramkumar811311/DSA/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Ramkumar811311/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1034-coloring-a-border](https://github.com/Ramkumar811311/DSA/tree/master/1034-coloring-a-border) |
 | [1052-grumpy-bookstore-owner](https://github.com/Ramkumar811311/DSA/tree/master/1052-grumpy-bookstore-owner) |
@@ -854,6 +855,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ramkumar811311/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/Ramkumar811311/DSA/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Ramkumar811311/DSA/tree/master/0991-broken-calculator) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Ramkumar811311/DSA/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1323-maximum-69-number](https://github.com/Ramkumar811311/DSA/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ramkumar811311/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/Ramkumar811311/DSA/tree/master/1328-break-a-palindrome) |
