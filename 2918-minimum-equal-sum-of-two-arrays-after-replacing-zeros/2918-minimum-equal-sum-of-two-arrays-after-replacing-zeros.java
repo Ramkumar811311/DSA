@@ -16,14 +16,14 @@ class Solution {
             }
             sum2 += nums2[i];
         }
-        if (count0In1 == 0 && sum2 + (count0In2 * 1) > sum1) {
+        if (count0In1 == 0 && sum2 + count0In2 > sum1) {
             return -1;
         }
 
-        if (count0In2 == 0 && sum1 + (count0In1 * 1) > sum2) {
+        if (count0In2 == 0 && sum1 + count0In1 > sum2) {
             return -1;
         }
 
-        return Math.max(sum1 + (count0In1 * 1), sum2 + (count0In2 * 1));
+        return Math.max(sum1 + count0In1, sum2 + count0In2);
     }
 }
